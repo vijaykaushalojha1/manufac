@@ -21,13 +21,13 @@ Your app is ready to be deployed!
 
 ## About Project :
 
-# The components added are dynamic in nature like in future if we get additional Alcohal class , the UI will render the mean meadian mode of additional class as well .
+The components added are dynamic in nature like in future if we get additional Alcohal class , the UI will render the mean meadian mode of additional class as well .
 
-# Due to inconsistency in given data , i had to use any type at one place where i dividing data bsed on Alcohal Class.
+Due to inconsistency in given data , I had to use any type at one place where i dividing data bsed on Alcohal Class.
 
-# used code splitting to minimize the initial load time for JS script 
+used code splitting to minimize the initial load time for JS script 
 
-# used Modular functions to avoid any repetition.
+used Modular functions to avoid any repetition.
 
 Homepage
 ![image](https://github.com/vijaykaushalojha1/manufac/assets/136922821/328bbcb1-41d4-49d8-8b32-ec42a67228a9)
